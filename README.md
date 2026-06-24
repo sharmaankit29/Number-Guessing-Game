@@ -28,10 +28,6 @@ An interactive web-based Number Guessing Game built using HTML, CSS, and JavaScr
 
 <img width="817" height="862" alt="image" src="https://github.com/user-attachments/assets/5851aad6-3767-4455-b3e6-f8ebef6e71a5" />
 
-```md
-![Project Screenshot](screenshot.png)
-```
-
 ## 🌐 Live Demo
 
 🔗 https://ankit-number-guessing-game.vercel.app/
